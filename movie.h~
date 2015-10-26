@@ -13,7 +13,7 @@ struct p{
 	struct d st;
 	int time;
 	int seats;
-	float price;
+	loat price;
 	};
 typedef struct{		//for entering new movie
 	      char m_name[25];
